@@ -1021,6 +1021,19 @@ The deployments on Fraxtal were done using a new implementation of the `Controll
 | `Pool price oracle implementation` | [0x0cD5A1e9E19Af1f1b910Ac3C3452A16B2B37155b](https://fraxscan.com/address/0x0cD5A1e9E19Af1f1b910Ac3C3452A16B2B37155b) |
 | `Monetary Policy Implementation`   | [0x86D347cE5f1E6f7Ef4Da00FB7c8d31fBD16996F0](https://fraxscan.com/address/0x86D347cE5f1E6f7Ef4Da00FB7c8d31fBD16996F0) |
 
+**:logos-sonic: Sonic**
+
+The deployments on Sonic were done using a new implementation of the `Controller.vy` contract and a slightly modified `Vault.vy` contract. Commit [`b0240d8`](https://github.com/curvefi/curve-stablecoin/tree/b0240d844c9e60fdab78b481a556a187ceee3721) contains the changes.
+
+| Contract Type                      | Contract Address |
+| :--------------------------------: | ---------------- |
+| `OneWay Lending Factory`           | [0x30D1859DaD5A52aE03B6e259d1b48c4b12933993](https://sonicscan.org/address/0x30D1859DaD5A52aE03B6e259d1b48c4b12933993) |
+| `AMM implementation`               | [0x98C391EC9D4b8e6a25A6F375d316e82506efBcF7](https://sonicscan.org/address/0x98C391EC9D4b8e6a25A6F375d316e82506efBcF7) |
+| `Controller implementation`        | [0x97223D110fbBa277155E0eF869900DeBb7FE1B6e](https://sonicscan.org/address/0x97223D110fbBa277155E0eF869900DeBb7FE1B6e) |
+| `Vault implementation`             | [0x837fD0c38792620aC871055B2f43D3F61809e0f2](https://sonicscan.org/address/0x837fD0c38792620aC871055B2f43D3F61809e0f2) |
+| `Pool price oracle implementation` | [0x271eA597a95aF4f20FA61B0D77cB38E2fBBe8Ed9](https://sonicscan.org/address/0x271eA597a95aF4f20FA61B0D77cB38E2fBBe8Ed9) |
+| `Monetary Policy Implementation`   | [0xDa39894132ADC64E7d3B5Ca20B85C9bfb2b494db](https://sonicscan.org/address/0xDa39894132ADC64E7d3B5Ca20B85C9bfb2b494db) |
+
 ---
 
 ## scrvUSD
